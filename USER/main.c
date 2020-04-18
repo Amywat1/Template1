@@ -12,4 +12,7 @@ int main(void)
 		 delay_ms(500); 
 		t++;
 	} 
+	
+	//12
+	//34
 }
